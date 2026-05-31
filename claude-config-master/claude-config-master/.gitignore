@@ -1,0 +1,14 @@
+settings.json
+settings.local.json
+plugins/
+sessions/
+history.jsonl
+stats-cache.json
+backups/
+paste-cache/
+file-history/
+shell-snapshots/
+cache/
+usage-data/
+.credentials.json
+.last-cleanup
